@@ -18,4 +18,4 @@ func Fibbonnaci(_ upto: Int){
         number2 = num
     }
 }
-Fibbonnaci(10)
+//Fibbonnaci(10)
